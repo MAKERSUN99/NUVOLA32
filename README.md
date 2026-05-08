@@ -8,6 +8,10 @@
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-5%20%2F%20BLE-blue?style=flat-square)
 ![License](https://img.shields.io/badge/Open%20Source-Schematics%20Available-orange?style=flat-square)
 
+<p align="center">
+  <img src="docs/nuvola32-hero.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
+</p>
+
 ---
 
 ## What is NUVOLA32?
@@ -109,6 +113,20 @@ RESET, BOOT, auto-reset, and USB-C: zero configuration needed. Go from idea to r
 | CharliePlex LEDs | GPIO | GPIO3, GPIO9, GPIO10 |
 
 > Refer to the schematic for exact pin mappings.
+
+---
+
+## Gallery
+
+<p align="center">
+  <img src="docs/nuvola32-front.jpg" alt="NUVOLA32 front view — 8 buttons, TFT display, RST/BOOT, power switch" width="48%"/>
+  &nbsp;
+  <img src="docs/nuvola32-pcb-back.jpg" alt="NUVOLA32 PCB back — ESP32-S3, speaker, SD card slot, LiPo battery connector" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="docs/nuvola32-display.jpg" alt="NUVOLA32 ILI9341 2.4-inch TFT display and 12-pin expansion header" width="60%"/>
+</p>
 
 ---
 
