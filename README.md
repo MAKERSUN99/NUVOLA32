@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/Open%20Source-Schematics%20Available-orange?style=flat-square)
 
 <p align="center">
-  <img src="docs/nuvola32-hero.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
+  <img src="nuvola32-hero.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
 </p>
 
 ---
