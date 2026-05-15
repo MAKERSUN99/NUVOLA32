@@ -119,13 +119,13 @@ RESET, BOOT, auto-reset, and USB-C: zero configuration needed. Go from idea to r
 ## Gallery
 
 <p align="center">
-  <img src="docs/nuvola32-front.jpg" alt="NUVOLA32 front view — 8 buttons, TFT display, RST/BOOT, power switch" width="48%"/>
+  <img src="nuvola32-front.jpg" alt="NUVOLA32 front view — 8 buttons, TFT display, RST/BOOT, power switch" width="48%"/>
   &nbsp;
-  <img src="docs/nuvola32-pcb-back.jpg" alt="NUVOLA32 PCB back — ESP32-S3, speaker, SD card slot, LiPo battery connector" width="48%"/>
+  <img src="nuvola32-pcb-back.jpg" alt="NUVOLA32 PCB back — ESP32-S3, speaker, SD card slot, LiPo battery connector" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="docs/nuvola32-display.jpg" alt="NUVOLA32 ILI9341 2.4-inch TFT display and 12-pin expansion header" width="60%"/>
+  <img src="nuvola32-display.jpg" alt="NUVOLA32 ILI9341 2.4-inch TFT display and 12-pin expansion header" width="60%"/>
 </p>
 
 ---
