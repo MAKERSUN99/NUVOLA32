@@ -112,6 +112,18 @@ RESET, BOOT, auto-reset, and USB-C: zero configuration needed. Go from idea to r
 | Battery Monitor | ADC | GPIO6 |
 | CharliePlex LEDs | GPIO | GPIO3, GPIO9, GPIO10 |
 
+### GPIO
+
+| Peripheral | Interface | Pins |
+|---|---|---|
+| ILI9341 Display | SPI1 | CLK-16 MOSI-17 MISO-11 DC-38 CD-39 RST-48 |
+| MicroSD Card | SPI0 | CLK-14 MISO-12 MOSI-13 CS-15 |
+| PCM5102 Audio | I2S | LRCK-4 BCLK-5 DATA-7 |
+| PCF8574 Buttons | I2C | ADDRESS 0x38 SCL-18 SDA-21 |
+| Battery Monitor | ADC | GPIO6 |
+| CharliePlex LEDs | GPIO | GPIO3, GPIO9, GPIO10 |
+| PCF8574 | GPIO | UP-5 DOWN-1 LEFT-7 RIGHT-6 SW1-0 SW2-3 SW3-2 SW4-4 |
+
 > Refer to the schematic for exact pin mappings.
 
 ---
