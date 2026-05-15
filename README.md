@@ -101,12 +101,12 @@ RESET, BOOT, auto-reset, and USB-C: zero configuration needed. Go from idea to r
 4. Connect NUVOLA32 via USB-C — the CH340C handles auto-reset automatically.
 5. Select the correct COM port and upload your sketch.
 
-### Recommended Pin Assignments
+### Pin Assignments
 
 | Peripheral | Interface | Pins |
 |---|---|---|
 | ILI9341 Display | SPI1 | Custom SPI1 pins |
-| MicroSD Card | SPI0 | MISO/CLK/MOSI (shared with expansion) |
+| MicroSD Card | SPI0 | Custom SPI0 (shared with expansion) |
 | PCM5102 Audio | I2S | Standard I2S |
 | PCF8574 Buttons | I2C | SCL / SDA |
 | Battery Monitor | ADC | GPIO6 |
