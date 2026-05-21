@@ -1,13 +1,6 @@
 # NUVOLA32 EMU
 
 > **DREAM. CODE. CREATE.**  
-> A compact, all-in-one development board by [MakerSun](https://makersun.net), manufactured by PCBWay.
-
-![NUVOLA32](https://img.shields.io/badge/ESP32--S3-N16R8-blue?style=flat-square&logo=espressif)
-![Wi-Fi](https://img.shields.io/badge/Wi--Fi-802.11%20b%2Fg%2Fn-brightgreen?style=flat-square)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-5%20%2F%20BLE-blue?style=flat-square)
-![License](https://img.shields.io/badge/Open%20Source-Schematics%20Available-orange?style=flat-square)
-
 <p align="center">
   <img src="nuvola32_emu_logo.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
 </p>
