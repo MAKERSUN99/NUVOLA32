@@ -1,6 +1,5 @@
 # NUVOLA32 EMU
 
-> **DREAM. CODE. CREATE.**  
 <p align="center">
   <img src="nuvola32_emu_logo.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
 </p>
