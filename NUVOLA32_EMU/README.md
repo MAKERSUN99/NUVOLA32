@@ -1,4 +1,6 @@
-## NUVOLA32 EMU
+<p align="center">
+  ## NUVOLA32 EMU
+</p>
 
 <p align="center">
   <img src="docs/nuvola32_emu_logo.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
