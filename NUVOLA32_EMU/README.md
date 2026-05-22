@@ -1,6 +1,4 @@
-<p align="center">
-  ## NUVOLA32 EMU
-</p>
+<h2 align="center">🎮 NUVOLA32 EMU — Multi Console Emulator</h2>
 
 <p align="center">
   <img src="docs/nuvola32_emu_logo.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
