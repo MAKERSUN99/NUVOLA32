@@ -11,6 +11,12 @@ NUVOLA32 EMU is a multi-console retro emulator firmware that runs natively on th
 
 ---
 
+<p align="center">
+  <img src="docs/1779449033875.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
+</p>
+
+---
+
 ### Supported Consoles
 
 | Console | Status | Info |
