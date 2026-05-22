@@ -1,4 +1,4 @@
-# NUVOLA32 EMU
+## NUVOLA32 EMU
 
 <p align="center">
   <img src="docs/nuvola32_emu_logo.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
@@ -7,20 +7,40 @@
 ---
 
 
-NUVOLA32EMU is a Multi Console Emulator.
+NUVOLA32 EMU is a multi-console retro emulator firmware that runs natively on the NUVOLA32 board. Load your ROMs onto a microSD card, plug in the board, and start playing — no extra hardware required.
 
 ---
 
-## Features
+### Supported Consoles
 
-| Console | Info |
+| Console | Status |
 |---|---|
-| **Nintendo Entertainment System** | ESP32S3-WROOM-1 N16R8 |
-| **Genesis/Mega Drive** | 16 MB |
-| **Gameboy Color** | 8 MB |
-| **Master System** | Wi-Fi 802.11 b/g/n + Bluetooth 5 / BLE |
-| **Neo Geo Pocket Color** | Type-C (CH340C) — Arduino IDE & ESP-IDF compatible |
-| **WIFI SD Explorer** | Built-in auto-reset circuit for easy firmware upload |
+| 🎮 **Nintendo Entertainment System (NES)** | ✅ Supported |
+| 🕹 **Sega Genesis / Mega Drive** | ✅ Supported |
+| 🎨 **Game Boy Color (GBC)** | ✅ Supported |
+| 📺 **Sega Master System** | ✅ Supported |
+| 🌀 **Neo Geo Pocket Color (NGPC)** | ✅ Supported |
+| 📡 **Wi-Fi SD Explorer** | ✅ Browse & manage SD card over Wi-Fi |
+
+### How It Works
+
+1. Copy ROM files to the microSD card
+2. Insert the SD card into NUVOLA32
+3. Power on — the EMU launcher appears on the TFT display
+4. Use the 8 tactile buttons to navigate and play
+5. Audio output via the built-in 3W speaker and PCM5102 DAC
+6. Use **Wi-Fi SD Explorer** to transfer ROMs wirelessly from any browser
+
+### Controls
+
+| Button | Action |
+|---|---|
+| D-Pad (4 buttons) | Directional input |
+| A / B | Action buttons |
+| Start / Select | Menu navigation |
+| RST | Reset emulator |
+
+> Button mapping may vary per emulated console. Refer to the firmware documentation for details.
 
 ---
 
@@ -32,3 +52,5 @@ This project uses dual licensing:
 - **Hardware (schematics, PCB files)** — [CERN OHL v2 Permissive](LICENSE-hardware.md) — open hardware license, derivatives encouraged to credit MakerSun.
 
 ---
+
+*NUVOLA32 — by MakerSun · DREAM. CODE. CREATE.*
