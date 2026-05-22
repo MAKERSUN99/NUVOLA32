@@ -13,18 +13,18 @@ NUVOLA32 EMU is a multi-console retro emulator firmware that runs natively on th
 
 ### Supported Consoles
 
-| Console | Status | Source |
-|---|---|
-| 🎮 **Nintendo Entertainment System (NES)** | ✅ Supported | [Based on Arduino Nofrendo](https://github.com/moononournation/arduino-nofrendo) |
-| 🕹 **Sega Genesis / Mega Drive** | ✅ No Audio for Better Performance | [Based on Gwenesis](https://github.com/bzhxx/gwenesis/tree/main) |
-| 🎨 **Game Boy Color (GBC)** | ✅ Supported |
-| 📺 **Sega Master System** | ✅ Supported |
-| 🌀 **Neo Geo Pocket Color (NGPC)** | ✅ Supported |
+| Console | Status | Info |
+|---|---|---|
+| 🎮 **Nintendo Entertainment System (NES)** | ✅ Supported | Based on Arduino Nofrendo. Rom path /nes |
+| 🕹 **Sega Genesis / Mega Drive** | ✅ No Audio for Better Performance | Based on Gwenesis. Rom path /gw |
+| 🎨 **Game Boy Color (GBC)** | ✅ Supported | Based on Gnuboy. Rom path /gbc |
+| 📺 **Sega Master System** | ✅ Supported | Based on SMSplus. Rom path /sms |
+| 🌀 **Neo Geo Pocket Color (NGPC)** | ✅ Supported | Based on RACE. Rom path /ngp |
 | 📡 **Wi-Fi SD Explorer** | ✅ Browse & manage SD card over Wi-Fi |
 
 ### How It Works
 
-1. Copy ROM files to the microSD card
+1. Copy ROM files to the microSD card. Refer to config.h for SD path
 2. Insert the SD card into NUVOLA32
 3. Power on — the EMU launcher appears on the TFT display
 4. Use the 8 tactile buttons to navigate and play
