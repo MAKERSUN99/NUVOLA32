@@ -13,7 +13,7 @@ NUVOLA32 EMU is a multi-console retro emulator firmware that runs natively on th
 
 ### Supported Consoles
 
-| Console | Status |
+| Console | Status | Source |
 |---|---|
 | 🎮 **Nintendo Entertainment System (NES)** | ✅ Supported | [Based on Arduino Nofrendo](https://github.com/moononournation/arduino-nofrendo) |
 | 🕹 **Sega Genesis / Mega Drive** | ✅ No Audio for Better Performance | [Based on Gwenesis](https://github.com/bzhxx/gwenesis/tree/main) |
