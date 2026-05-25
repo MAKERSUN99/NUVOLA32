@@ -172,8 +172,8 @@ Feel free to fork, modify, and build on top of NUVOLA32.
 
 This project uses dual licensing:
 
-- **Firmware & Software** — [MIT License](LICENSE-firmware.md) — use freely, even in commercial projects, just keep the copyright notice.
-- **Hardware (schematics, PCB files)** — [CERN OHL v2 Permissive](LICENSE-hardware.md) — open hardware license, derivatives encouraged to credit MakerSun.
+- **Firmware & Software** — [MIT License](LICENSE/LICENSE-firmware.md) — use freely, even in commercial projects, just keep the copyright notice.
+- **Hardware (schematics, PCB files)** — [CERN OHL v2 Permissive](LICENSE/LICENSE-hardware.md) — open hardware license, derivatives encouraged to credit MakerSun.
 
 ---
 
