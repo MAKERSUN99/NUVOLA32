@@ -101,6 +101,8 @@ RESET, BOOT, auto-reset, and USB-C: zero configuration needed. Go from idea to r
 4. Connect NUVOLA32 via USB-C — the CH340C handles auto-reset automatically.
 5. Select the correct COM port and upload your sketch.
 
+---
+
 ### Pin Assignments
 
 | Peripheral | Interface | Pins |
