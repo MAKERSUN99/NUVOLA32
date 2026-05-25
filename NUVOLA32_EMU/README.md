@@ -1,7 +1,7 @@
 <h2 align="center">🎮 NUVOLA32 EMU — Multi Console Emulator</h2>
 
 <p align="center">
-  <img src="docs/nuvola32_emu_logo.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
+  <img src="docs/nuvola32_emu_logo.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="500"/>
 </p>
 
 ---
@@ -52,9 +52,7 @@ NUVOLA32 EMU is a multi-console retro emulator firmware that runs natively on th
 
 ### Multimedia
 
-![NES](docs/nes1.jpg)
-![NES](docs/nes3.jpg)
-![NES](docs/nes4.jpg)
+|<img src="docs/nes1.jpg" alt="NES" width="200" height="200"/>|<img src="docs/nes2.jpg" alt="NES" width="200" height="200"/>|<img src="docs/nes3.jpg" alt="NES" width="200" height="200"/>|<img src="docs/nes4.jpg" alt="NES" width="200" height="200"/>|
 
 ---
 
