@@ -37,6 +37,16 @@ NUVOLA32 EMU is a multi-console retro emulator firmware that runs natively on th
 5. Audio output via the built-in 3W speaker and PCM5102 DAC
 6. Use **Wi-Fi SD Explorer** to transfer ROMs wirelessly from any browser
 
+### microSD ROM Path
+
+```
+#define GBCromPath "/gbc"
+#define GWromPath "/gw"
+#define NESromPath "/nes"
+#define NGPromPath "/ngp"
+#define SMSromPath "/sms"
+```
+
 ### Controls
 
 | Button | Action |
