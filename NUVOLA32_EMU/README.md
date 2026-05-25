@@ -50,6 +50,14 @@ NUVOLA32 EMU is a multi-console retro emulator firmware that runs natively on th
 
 ---
 
+### Multimedia
+
+![NES](docs/nes1.jpg)
+![NES](docs/nes3.jpg)
+![NES](docs/nes4.jpg)
+
+---
+
 ## License
 
 This project uses dual licensing:
