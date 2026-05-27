@@ -126,7 +126,7 @@ RESET, BOOT, auto-reset, and USB-C: zero configuration needed. Go from idea to r
 | CharliePlex LEDs | GPIO | GPIO3, GPIO9, GPIO10 |
 | PCF8574 | GPIO | UP-5 DOWN-1 LEFT-7 RIGHT-6 SW1-0 SW2-3 SW3-2 SW4-4 |
 
-> Refer to the schematic for exact pin mappings.
+> Refer to config_NUVOLA32.h in SRC dir.
 
 ---
 
