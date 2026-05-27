@@ -60,8 +60,8 @@ NUVOLA32 EMU is a multi-console retro emulator firmware that runs natively on th
 ### Multimedia
 
 |<img src="docs/nes1.jpg" alt="NES" width="210" height="200"/>|<img src="docs/nes2.jpg" alt="NES" width="210" height="200"/>|<img src="docs/nes3.jpg" alt="NES" width="210" height="200"/>|<img src="docs/nes4.jpg" alt="NES" width="210" height="200"/>|
-|<img src="docs/genesis1.jpg" alt="GENESIS" width="200" height="200"/>|<img src="docs/genesis2.jpg" alt="GENESIS" width="200" height="200"/>|<img src="docs/genesis3.jpg" alt="GENESIS" width="200" height="200"/>|<img src="docs/genesis4.jpg" alt="GENESIS" width="200" height="200"/>|
-|<img src="docs/gbc1.jpg" alt="GBC" width="200" height="200"/>|<img src="docs/gbc2.jpg" alt="GBC" width="200" height="200"/>|<img src="docs/gbc3.jpg" alt="GBC" width="200" height="200"/>|<img src="docs/gbc4.jpg" alt="GBC" width="200" height="200"/>|
+|<img src="docs/genesis1.jpg" alt="GENESIS" width="210" height="200"/>|<img src="docs/genesis2.jpg" alt="GENESIS" width="210" height="200"/>|<img src="docs/genesis3.jpg" alt="GENESIS" width="210" height="200"/>|<img src="docs/genesis4.jpg" alt="GENESIS" width="210" height="200"/>|
+|<img src="docs/gbc1.jpg" alt="GBC" width="210" height="200"/>|<img src="docs/gbc2.jpg" alt="GBC" width="210" height="200"/>|<img src="docs/gbc3.jpg" alt="GBC" width="210" height="200"/>|<img src="docs/gbc4.jpg" alt="GBC" width="210" height="200"/>|
 
 ---
 
