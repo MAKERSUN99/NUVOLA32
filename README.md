@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/Open%20Source-Schematics%20Available-orange?style=flat-square)
 
 <p align="center">
-  <img src="docs/nuvola32-hero.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
+  <img src="DOCS/nuvola32-hero.jpg" alt="NUVOLA32 — ESP32-S3 Breakout Board" width="600"/>
 </p>
 
 ---
@@ -133,13 +133,13 @@ RESET, BOOT, auto-reset, and USB-C: zero configuration needed. Go from idea to r
 ## Gallery
 
 <p align="center">
-  <img src="docs/nuvola32-front.jpg" alt="NUVOLA32 front view — 8 buttons, TFT display, RST/BOOT, power switch" width="48%"/>
+  <img src="DOCS/nuvola32-front.jpg" alt="NUVOLA32 front view — 8 buttons, TFT display, RST/BOOT, power switch" width="48%"/>
   &nbsp;
-  <img src="docs/nuvola32-pcb-back.jpg" alt="NUVOLA32 PCB back — ESP32-S3, speaker, SD card slot, LiPo battery connector" width="48%"/>
+  <img src="DOCS/nuvola32-pcb-back.jpg" alt="NUVOLA32 PCB back — ESP32-S3, speaker, SD card slot, LiPo battery connector" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="docs/nuvola32-display.jpg" alt="NUVOLA32 ILI9341 2.4-inch TFT display and 12-pin expansion header" width="60%"/>
+  <img src="DOCS/nuvola32-display.jpg" alt="NUVOLA32 ILI9341 2.4-inch TFT display and 12-pin expansion header" width="60%"/>
 </p>
 
 ---
