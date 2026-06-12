@@ -142,14 +142,6 @@ RESET, BOOT, auto-reset, and USB-C: zero configuration needed. Go from idea to r
   <img src="DOCS/nuvola32-display.jpg" alt="NUVOLA32 ILI9341 2.4-inch TFT display and 12-pin expansion header" width="60%"/>
 </p>
 
-## Video Demo
-
-<p align="center">
-  <video src="DOCS/video1.mp4" controls width="800">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
 ---
 
 ## Open Source
