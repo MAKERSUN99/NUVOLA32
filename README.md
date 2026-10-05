@@ -42,7 +42,7 @@ NUVOLA32 is open hardware. You are free to study, modify and manufacture derivat
 | **Speaker** | Built-in 3W speaker |
 | **Storage** | MicroSD card slot (SPI0) |
 | **Buttons** | 8× tactile via PCF8574 (I2C) + RESET + BOOT |
-| **LEDs** | 6× CharliePlexing on GPIO 3, 9, 10 |
+| **LEDs** | 6× Charlieplexed LEDs using GPIO 3, 9 and 10 |
 | **Switch** | Physical ON/OFF |
 | **Case** | Custom blue protective enclosure |
 | **Manufacturer** | [PCBWay](https://www.pcbway.com) |
