@@ -1,4 +1,4 @@
-# NUVOLA32 — ESP32-S3 Breakout Board
+# NUVOLA32 — ESP32-S3 Open Hardware Development Platform
 
 > **DREAM. CODE. CREATE.**  
 > A compact, all-in-one development board by [MakerSun](https://makersun.net), manufactured by PCBWay.
