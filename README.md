@@ -20,6 +20,8 @@ NUVOLA32 is a powerful development board based on the **ESP32-S3**, designed for
 
 It combines a high-performance wireless microcontroller with a rich set of on-board peripherals: TFT display, audio DAC, speaker, SD card, I2C buttons, CharliePlexed LEDs, LiPo battery management, and a 12-pin expansion header — ready to use out of the box.
 
+NUVOLA32 is open hardware. You are free to study, modify and manufacture derivative designs according to the applicable license terms.
+
 ---
 
 ## Features
